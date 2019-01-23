@@ -1,3 +1,7 @@
+# Note from lfrazer
+
+I am leaving this here as a partially completed port to VR for educational and development use of the community.  It is not working yet, but probably could work with a little love and care.  
+
 # QuickLootRE
 
 This project uses [JSON for Modern C++](https://github.com/nlohmann/json)
